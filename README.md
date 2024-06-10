@@ -1,4 +1,4 @@
-# Estudo sobre React-Develop
+# Estudo React-Develop
 
 ----------
 
